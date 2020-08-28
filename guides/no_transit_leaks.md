@@ -15,7 +15,7 @@ Across an IXP, Tier 2 and Tier 3 networks should not be announcing prefixes with
 
 There was a presentation at Nanog by Job Snijders that explains more about the topic. [Presentation in PDF](https://www.nanog.org/sites/default/files/Snijders_Everyday_Practical_Bgp.pdf)
 
-Be aware that you need to manually check the prefix list as you could peer with for instance Microsoft of other parties on the list..
+Be aware that you need to manually check the prefix list as you could peer with for instance Microsoft or other parties on the list..
 So you need to do a quick sanity check on the AS numbers to fit your need.  
 
 Target import policy :  customers and IXP peering
